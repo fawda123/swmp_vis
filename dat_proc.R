@@ -1,3 +1,6 @@
+######
+# get a cleaner version of the swmp metadata
+
 setwd('M:/wq_models/SWMP/')
 
 dat <- read.csv('sampling_stations_cln.csv', header = T, stringsAsFactors = F)

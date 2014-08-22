@@ -1,0 +1,324 @@
+"NERR.Site.ID","Station.Code","Station.Name","Latitude","Longitude","Status","State","Reserve.Name","GMT.Offset"
+"ace","acebbnut","Big Bay",32.4941,80.3241,"Active","sc","Ashepoo Combahee Edisto Basin",-5
+"ace","acebbwq","Big Bay",32.4941,80.3241,"Active","sc","Ashepoo Combahee Edisto Basin",-5
+"ace","acebpmet","Bennett's Point",32.55934,80.45456,"Active","sc","Ashepoo Combahee Edisto Basin",-5
+"ace","acefcnut","Fishing Creek",32.6358,80.3655,"Active","sc","Ashepoo Combahee Edisto Basin",-5
+"ace","acefcwq","Fishing Creek",32.6358,80.3655,"Active","sc","Ashepoo Combahee Edisto Basin",-5
+"ace","acemcnut","Mosquito Creek",32.5558,80.438,"Active","sc","Ashepoo Combahee Edisto Basin",-5
+"ace","acemcwq","Mosquito Creek",32.5558,80.438,"Active","sc","Ashepoo Combahee Edisto Basin",-5
+"ace","acercwq","Rock Creek",32.5485,80.5036,"Inactive","sc","Ashepoo Combahee Edisto Basin",-5
+"ace","acespnut","St. Pierre",32.5233,80.3568,"Active","sc","Ashepoo Combahee Edisto Basin",-5
+"ace","acespwq","St. Pierre",32.5233,80.3568,"Active","sc","Ashepoo Combahee Edisto Basin",-5
+"apa","apacpnut","Cat Point",29.7021,84.8802,"Active","fl","Apalachicola Bay",-5
+"apa","apacpwq","Cat Point",29.7021,84.8802,"Active","fl","Apalachicola Bay",-5
+"apa","apadbnut","Dry Bar",29.6747,85.0583,"Active","fl","Apalachicola Bay",-5
+"apa","apadbwq","Dry Bar",29.6747,85.0583,"Active","fl","Apalachicola Bay",-5
+"apa","apaebmet","East Bay",29.7909,84.8834,"Active","fl","Apalachicola Bay",-5
+"apa","apaebnut","East Bay Bottom",29.7858,84.8752,"Active","fl","Apalachicola Bay",-5
+"apa","apaebwq","East Bay Bottom",29.7858,84.8752,"Active","fl","Apalachicola Bay",-5
+"apa","apaegnut","East Bay Bridge",29.7308,84.9452,"Active","fl","Apalachicola Bay",-5
+"apa","apaesnut","East Bay Surface",29.7858,84.8752,"Active","fl","Apalachicola Bay",-5
+"apa","apaeswq","East Bay Surface",29.7858,84.8752,"Active","fl","Apalachicola Bay",-5
+"apa","apambnut","Mid Bay",29.6677,84.994,"Active","fl","Apalachicola Bay",-5
+"apa","apanhnut","Nicks Hole",29.6504,84.9289,"Active","fl","Apalachicola Bay",-5
+"apa","apapcnut","Pilots Cove",29.6079,85.0196,"Active","fl","Apalachicola Bay",-5
+"apa","aparvnut","River",29.7791,85.0434,"Active","fl","Apalachicola Bay",-5
+"apa","apascnut","Sikes Cut",29.6067,84.9467,"Active","fl","Apalachicola Bay",-5
+"apa","apawpnut","West Pass",29.6379,85.089,"Active","fl","Apalachicola Bay",-5
+"cbm","cbmipnut","Iron Pot Landing",38.796,76.7208,"Active","md","Chesapeake Bay",-5
+"cbm","cbmipwq","Iron Pot Landing",38.796,76.7208,"Active","md","Chesapeake Bay",-5
+"cbm","cbmjbmet","Jug Bay",38.7807,76.7081,"Active","md","Chesapeake Bay",-5
+"cbm","cbmjbwq","Jug Bay",38.7792,76.7077,"Inactive","md","Chesapeake Bay",-5
+"cbm","cbmmcnut","Mataponi Creek",38.7433,76.7074,"Active","md","Chesapeake Bay",-5
+"cbm","cbmmcwq","Mataponi Creek",38.7433,76.7074,"Active","md","Chesapeake Bay",-5
+"cbm","cbmocnut","Otter Point Creek",39.4507,76.2746,"Active","md","Chesapeake Bay",-5
+"cbm","cbmocwq","Otter Point Creek",39.4507,76.2746,"Active","md","Chesapeake Bay",-5
+"cbm","cbmprwq","Patuxent River",38.7732,76.7091,"Inactive","md","Chesapeake Bay",-5
+"cbm","cbmrrnut","Railroad",38.7813,76.7137,"Active","md","Chesapeake Bay",-5
+"cbm","cbmrrwq","Railroad",38.7813,76.7137,"Active","md","Chesapeake Bay",-5
+"cbv","cbvcbnut","Claybank",37.34855,76.61123,"Active","va","Chesapeake Bay",-5
+"cbv","cbvcbwq","Claybank",37.34667,76.61126,"Active","va","Chesapeake Bay",-5
+"cbv","cbvcinut","Catlett Islands",37.3,76.55,"Active","va","Chesapeake Bay",-5
+"cbv","cbvginut","Goodwin Islands",37.21739,76.3954,"Active","va","Chesapeake Bay",-5
+"cbv","cbvgiwq","Goodwin Islands",37.2158,76.39267,"Active","va","Chesapeake Bay",-5
+"cbv","cbvshnut","Sweethall",37.57138,76.88424,"Active","va","Chesapeake Bay",-5
+"cbv","cbvshwq","Sweethall",37.57138,76.88424,"Active","va","Chesapeake Bay",-5
+"cbv","cbvtcmet","Taskinas Creek",37.4141,76.71237,"Active","va","Chesapeake Bay",-5
+"cbv","cbvtcnut","Taskinas Creek",37.41497,76.71441,"Active","va","Chesapeake Bay",-5
+"cbv","cbvtcwq","Taskinas Creek",37.41499,76.71442,"Active","va","Chesapeake Bay",-5
+"cbv","cbvybnut","York River Bridge",37.2449,76.5052,"Active","va","Chesapeake Bay",-5
+"del","delbbnut","Beaver Branch",39.4024,75.628,"Active","de","Delaware",-5
+"del","delblnut","Blackbird Landing",39.38876,75.636,"Active","de","Delaware",-5
+"del","delblwq","Blackbird Landing",39.38876,75.636,"Active","de","Delaware",-5
+"del","deldsnut","Division Street",39.1637,75.5191,"Active","de","Delaware",-5
+"del","deldswq","Division Street",39.1637,75.5191,"Active","de","Delaware",-5
+"del","delllnut","Lebanon Landing",39.1144,75.4992,"Active","de","Delaware",-5
+"del","delllwq","Lebanon Landing",39.1144,75.4992,"Active","de","Delaware",-5
+"del","delpbwq","Penrose Branch",39.1647,75.6504,"Inactive","de","Delaware",-5
+"del","delsjmet","Saint Jones River",39.0889,75.4368,"Active","de","Delaware",-5
+"del","delslnut","Scotton Landing",39.08498,75.46058,"Active","de","Delaware",-5
+"del","delslwq","Scotton Landing",39.08498,75.46058,"Active","de","Delaware",-5
+"del","deltbnut","Taylor's Bridge",39.4049,75.5996,"Active","de","Delaware",-5
+"elk","elkapnut","Azevedo Pond",36.8457,121.7538,"Active","ca","Elkhorn Slough",-8
+"elk","elkapwq","Azevedo Pond",36.8457,121.7538,"Active","ca","Elkhorn Slough",-8
+"elk","elkcwmet","Caspian Weather Station",36.81806,121.73939,"Active","ca","Elkhorn Slough",-8
+"elk","elknmnut","North Marsh",36.8346,121.7384,"Active","ca","Elkhorn Slough",-8
+"elk","elknmwq","North Marsh",36.8346,121.7384,"Active","ca","Elkhorn Slough",-8
+"elk","elksmnut","South Marsh",36.8179,121.7394,"Active","ca","Elkhorn Slough",-8
+"elk","elksmwq","South Marsh",36.8179,121.7394,"Active","ca","Elkhorn Slough",-8
+"elk","elkvmnut","Vierra Mouth",36.8111,121.7792,"Active","ca","Elkhorn Slough",-8
+"elk","elkvmwq","Vierra Mouth",36.8111,121.7792,"Active","ca","Elkhorn Slough",-8
+"gnd","gndbcwq","Bayou Cumbest",30.3836,88.4364,"Active","ms","Grand Bay",-6
+"gnd","gndbhwq","Bayou Heron",30.4178,88.4054,"Active","ms","Grand Bay",-6
+"gnd","gndblwq","Bangs Lake",30.3571,88.4629,"Active","ms","Grand Bay",-6
+"gnd","gndcrwq","Crooked Bayou",30.3599,88.419,"Inactive","ms","Grand Bay",-6
+"gnd","gndbhnut","Bayou Heron",30.4178,88.4054,"Active","ms","Grand Bay",-6
+"gnd","gndcrnut","Crooked Bayou",30.3591,88.42,"Inactive","ms","Grand Bay",-6
+"gnd","gndpcnut","Point Aux Chenes",30.3486,88.4185,"Active","ms","Grand Bay",-6
+"gnd","gndbcnut","Bayou Cumbest",30.3836,88.4364,"Active","ms","Grand Bay",-6
+"gnd","gndblnut","Bangs Lake",30.3571,88.4629,"Active","ms","Grand Bay",-6
+"gnd","gndbnnut","Bangs Lake North",30.3669,88.471,"Active","ms","Grand Bay",-6
+"gnd","gndpcwq","Point Aux Chenes Bay",30.3486,88.4185,"Active","ms","Grand Bay",-6
+"gnd","gndcrmet","Crooked Bayou",30.3592,88.42,"Active","ms","Grand Bay",-6
+"grb","grbglmet","Greenland",43.05877,70.83038,"Active","nh","Great Bay",-5
+"grb","grbgbmet","Great Bay",43.0921,70.8642,"Inactive","nh","Great Bay",-5
+"grb","grbgbnut","Great Bay",43.0722,70.8694,"Active","nh","Great Bay",-5
+"grb","grbgbwq","Great Bay",43.0722,70.8694,"Active","nh","Great Bay",-5
+"grb","grblrnut","Lamprey River",43.08,70.9344,"Active","nh","Great Bay",-5
+"grb","grblrwq","Lamprey River",43.08,70.9344,"Active","nh","Great Bay",-5
+"grb","grbornut","Oyster River",43.134,70.911,"Active","nh","Great Bay",-5
+"grb","grborwq","Oyster River",43.134,70.911,"Active","nh","Great Bay",-5
+"grb","grbsqnut","Squamscott River",43.0524,70.91181,"Active","nh","Great Bay",-5
+"grb","grbsqwq","Squamscott River",43.0524,70.91181,"Active","nh","Great Bay",-5
+"gtm","gtmfmnut","Fort Matanzas",29.73704,81.24595,"Active","fl","Guana Tolomato Mantanzas",-5
+"gtm","gtmfmwq","Fort Matanzas",29.73704,81.24595,"Active","fl","Guana Tolomato Mantanzas",-5
+"gtm","gtmpcmet","Pellicer Creek",29.6577,81.23274,"Active","fl","Guana Tolomato Mantanzas",-5
+"gtm","gtmpcnut","Pellicer Creek",29.66707,81.2574,"Active","fl","Guana Tolomato Mantanzas",-5
+"gtm","gtmpcwq","Pellicer Creek",29.66707,81.2574,"Active","fl","Guana Tolomato Mantanzas",-5
+"gtm","gtmpinut","Pine Island",30.05086,81.36746,"Active","fl","Guana Tolomato Mantanzas",-5
+"gtm","gtmpiwq","Pine Island",30.05086,81.36746,"Active","fl","Guana Tolomato Mantanzas",-5
+"gtm","gtmssnut","San Sebastian",29.86885,81.30743,"Active","fl","Guana Tolomato Mantanzas",-5
+"gtm","gtmsswq","San Sebastian",29.86885,81.30743,"Active","fl","Guana Tolomato Mantanzas",-5
+"hud","hudfsmet","Field Station",42.0182,73.917,"Active","ny","Hudson River",-5
+"hud","hudscnut","Stony Creek",42.0463,73.9108,"Active","ny","Hudson River",-5
+"hud","hudscwq","Stony Creek",42.0463,73.9108,"Active","ny","Hudson River",-5
+"hud","hudsknut","Saw Kill",42.0171,73.9148,"Active","ny","Hudson River",-5
+"hud","hudskwq","Saw Kill",42.0171,73.9148,"Active","ny","Hudson River",-5
+"hud","hudtnnut","Tivoli North Bay",42.0365,73.9253,"Active","ny","Hudson River",-5
+"hud","hudtnwq","Tivoli North Bay",42.0365,73.9253,"Active","ny","Hudson River",-5
+"hud","hudtsnut","Tivoli South Bay",42.027,73.9259,"Active","ny","Hudson River",-5
+"hud","hudtswq","Tivoli South Bay",42.027,73.9259,"Active","ny","Hudson River",-5
+"jac","jacb5nut","Buoy 115",39.5188,74.2872,"Active","nj","Jacques Cousteau",-5
+"jac","jacb6nut","Buoy 126",39.5079,74.3385,"Active","nj","Jacques Cousteau",-5
+"jac","jacb6wq","Buoy 126",39.5079,74.3385,"Active","nj","Jacques Cousteau",-5
+"jac","jacb9nut","Buoy 139",39.4902,74.3816,"Active","nj","Jacques Cousteau",-5
+"jac","jacb9wq","Buoy 139",39.4902,74.3816,"Active","nj","Jacques Cousteau",-5
+"jac","jacbanut","Lower Bank",39.5937,74.5515,"Active","nj","Jacques Cousteau",-5
+"jac","jacbawq","Lower Bank",39.5937,74.5515,"Active","nj","Jacques Cousteau",-5
+"jac","jacncmet","Nacote Creek",39.535,74.4636,"Active","nj","Jacques Cousteau",-5
+"jac","jacnenut","Chestnut Neck",39.5479,74.4608,"Active","nj","Jacques Cousteau",-5
+"jac","jacnewq","Chestnut Neck",39.5479,74.4608,"Active","nj","Jacques Cousteau",-5
+"job","job06wq","Station 6",17.93499,66.22793,"Inactive","pr","Jobos Bay",-4
+"job","job09nut","Station 9",17.94367,66.23849,"Active","pr","Jobos Bay",-4
+"job","job09wq","Station 9",17.94367,66.23849,"Active","pr","Jobos Bay",-4
+"job","job10nut","Station 10",17.93861,66.25774,"Active","pr","Jobos Bay",-4
+"job","job10wq","Station 10",17.93861,66.25774,"Active","pr","Jobos Bay",-4
+"job","job11wq","Station 11",17.94461,66.26203,"Inactive","pr","Jobos Bay",-4
+"job","job18wq","Station 18",17.94443,66.23188,"Inactive","pr","Jobos Bay",-4
+"job","job19nut","Station 19",17.94291,66.22883,"Active","pr","Jobos Bay",-4
+"job","job19wq","Station 19",17.94291,66.22883,"Active","pr","Jobos Bay",-4
+"job","job20nut","Station 20",17.93032,66.21147,"Active","pr","Jobos Bay",-4
+"job","job20wq","Station 20",17.93032,66.21147,"Active","pr","Jobos Bay",-4
+"job","jobjbmet","Jobos Bay Weather",17.95648,66.22293,"Active","pr","Jobos Bay",-4
+"kac","kacbcwq","Bear Cove",59.70567,151.1094,"Inactive","ak","Kachemak Bay",-9
+"kac","kacdlwq","Homer Dolphin",59.60232,151.41,"Inactive","ak","Kachemak Bay",-9
+"kac","kachdnut","Homer Deep",59.60201,151.40878,"Active","ak","Kachemak Bay",-9
+"kac","kachdwq","Homer Dolphin Deep",59.60201,151.40878,"Active","ak","Kachemak Bay",-9
+"kac","kachhnut","Homer Harbor",59.60342,151.41726,"Active","ak","Kachemak Bay",-9
+"kac","kachomet","Homer",59.60093,151.4095,"Active","ak","Kachemak Bay",-9
+"kac","kachowq","Homer",59.60232,151.41,"Inactive","ak","Kachemak Bay",-9
+"kac","kachsnut","Homer Shallow",59.60201,151.40878,"Active","ak","Kachemak Bay",-9
+"kac","kachswq","Homer Dolphin Surface",59.60201,151.40878,"Inactive","ak","Kachemak Bay",-9
+"kac","kacpgwq","Port Graham",59.37053,151.89612,"Inactive","ak","Kachemak Bay",-9
+"kac","kacsdnut","Seldovia Deep",59.44099,151.72096,"Active","ak","Kachemak Bay",-9
+"kac","kacsdwq","Seldovia Deep",59.44099,151.72096,"Active","ak","Kachemak Bay",-9
+"kac","kacsewq","Seldovia",59.44099,151.72096,"Inactive","ak","Kachemak Bay",-9
+"kac","kacssnut","Seldovia Shallow",59.44099,151.72096,"Active","ak","Kachemak Bay",-9
+"kac","kacsswq","Seldovia Surface",59.44099,151.72096,"Active","ak","Kachemak Bay",-9
+"kac","kach3wq","Homer Surface 3",59.60205,151.40942,"Active","AK","Kachemak Bay",-9
+"lks","lksolwq","Oliver Bridge",46.65685,92.20166,"Active","WI","Lake Superior",-6
+"lks","lkspomet","Pokegama Bay",46.67236,92.13561,"Active","WI","Lake Superior",-6
+"lks","lksblwq","Blatnick Bridge",46.74865,92.10027,"Active","WI","Lake Superior",-6
+"lks","lksbawq","Barker's Island",46.72177,92.06352,"Active","WI","Lake Superior",-6
+"lks","lksbanut","Barker's Island",46.72177,92.06352,"Active","WI","Lake Superior",-6
+"lks","lksblnut","Blatnick Bridge",46.74865,92.10027,"Active","WI","Lake Superior",-6
+"lks","lksbonut","Bong Bridge",46.73169,92.14257,"Active","WI","Lake Superior",-6
+"lks","lksolnut","Oliver Bridge",46.65685,92.20166,"Active","WI","Lake Superior",-6
+"lks","lkspowq","Pokegama Bay",46.67236,92.13561,"Active","WI","Lake Superior",-6
+"mar","marscwq","Ship Channel",27.8383,97.0503,"Active","tx","Mission Aransas",-6
+"mar","marcewq","Copano Bay East",28.1323,97.0344,"Active","tx","Mission Aransas",-6
+"mar","marabwq","Aransas Bay",27.9798,97.0287,"Active","tx","Mission Aransas",-6
+"mar","marmbwq","Mesquite Bay",28.1384,96.8285,"Active","tx","Mission Aransas",-6
+"mar","marcwwq","Copano Bay West",28.0841,97.2009,"Active","tx","Mission Aransas",-6
+"mar","marcemet","Copano East",28.1323,97.0344,"Active","tx","Mission Aransas",-6
+"mar","marmbnut","Mesquite Bay",28.1384,96.8285,"Active","tx","Mission Aransas",-6
+"mar","marabnut","Aransas Bay",27.9798,97.0287,"Active","tx","Mission Aransas",-6
+"mar","marcenut","Copano Bay East",28.1323,97.0344,"Active","tx","Mission Aransas",-6
+"mar","marcwnut","Copano Bay West",28.0841,97.2009,"Active","tx","Mission Aransas",-6
+"mar","marscnut","Ship Channel",27.8383,97.0503,"Active","tx","Mission Aransas",-6
+"nar","narncnut","Nag Creek",41.62485,71.32428,"Active","ri","Narragansett Bay",-5
+"nar","narncwq","Nag Creek",41.62485,71.32428,"Active","ri","Narragansett Bay",-5
+"nar","narpcmet","Potters Cove",41.63714,71.33939,"Active","ri","Narragansett Bay",-5
+"nar","narpcnut","Potters Cove",41.64055,71.34088,"Active","ri","Narragansett Bay",-5
+"nar","narpcwq","Potters Cove",41.64055,71.34088,"Active","ri","Narragansett Bay",-5
+"nar","nartbnut","T-Wharf Bottom",41.57836,71.32112,"Active","ri","Narragansett Bay",-5
+"nar","nartbwq","T-Wharf Bottom",41.57836,71.32112,"Active","ri","Narragansett Bay",-5
+"nar","nartsnut","T-Wharf Surface",41.57836,71.32112,"Active","ri","Narragansett Bay",-5
+"nar","nartswq","T-Wharf Surface",41.57836,71.32112,"Active","ri","Narragansett Bay",-5
+"nar","nartwnut","T-Wharf",41.5789,71.3215,"Inactive","ri","Narragansett Bay",-5
+"nar","nartwwq","T-Wharf",41.5789,71.3215,"Inactive","ri","Narragansett Bay",-5
+"niw","niwcawq","Caledonia",33.45,79.1667,"Inactive","sc","North Inlet-Winyah Bay",-5
+"niw","niwcbnut","Clambank",33.33386,79.19304,"Active","sc","North Inlet-Winyah Bay",-5
+"niw","niwcbwq","Clambank",33.33386,79.19304,"Active","sc","North Inlet-Winyah Bay",-5
+"niw","niwdcnut","Debidue Creek",33.36015,79.16746,"Active","sc","North Inlet-Winyah Bay",-5
+"niw","niwdcwq","Debidue Creek",33.36015,79.16746,"Active","sc","North Inlet-Winyah Bay",-5
+"niw","niwolmet","Oyster Landing",33.34935,79.18888,"Active","sc","North Inlet-Winyah Bay",-5
+"niw","niwolnut","Oyster Landing",33.34935,79.18888,"Active","sc","North Inlet-Winyah Bay",-5
+"niw","niwolwq","Oyster Landing",33.34935,79.18888,"Active","sc","North Inlet-Winyah Bay",-5
+"niw","niwtanut","Thousand Acre",33.29915,79.25606,"Active","sc","North Inlet-Winyah Bay",-5
+"niw","niwtawq","Thousand Acre",33.29915,79.25606,"Active","sc","North Inlet-Winyah Bay",-5
+"noc","nocecnut","East Cribbing",33.9399,77.9411,"Active","nc","North Carolina",-5
+"noc","nocecwq","East Cribbing",33.9399,77.9411,"Active","nc","North Carolina",-5
+"noc","noclcnut","Loosin Creek",34.1722,77.8328,"Active","nc","North Carolina",-5
+"noc","noclcwq","Loosin Creek",34.1722,77.8328,"Active","nc","North Carolina",-5
+"noc","nocrcmet","Research Creek",34.1555,77.8509,"Active","nc","North Carolina",-5
+"noc","nocrcnut","Research Creek",34.156,77.8499,"Active","nc","North Carolina",-5
+"noc","nocrcwq","Research Creek",34.156,77.8499,"Active","nc","North Carolina",-5
+"noc","noczbnut","Zeke's Basin",33.9547,77.935,"Active","nc","North Carolina",-5
+"noc","noczbwq","Zeke's Basin",33.9547,77.935,"Active","nc","North Carolina",-5
+"owc","owcbrnut","Berlin Road",41.3483,82.5083,"Active","oh","Old Woman Creek",-5
+"owc","owcbrwq","Berlin Road",41.3483,82.5083,"Active","oh","Old Woman Creek",-5
+"owc","owcolnut","Lower Estuary",41.3819,82.5142,"Active","oh","Old Woman Creek",-5
+"owc","owcolwq","Lower Estuary",41.3819,82.5142,"Active","oh","Old Woman Creek",-5
+"owc","owcowmet","Old Woman Creek",41.37778,82.50806,"Active","oh","Old Woman Creek",-5
+"owc","owcsunut","State Route 2",41.3672,82.5072,"Active","oh","Old Woman Creek",-5
+"owc","owcsuwq","State Route 2",41.3672,82.5072,"Inactive","oh","Old Woman Creek",-5
+"owc","owcwmnut","State Route 6",41.3825,82.515,"Active","oh","Old Woman Creek",-5
+"owc","owcwmwq","State Route 6",41.3825,82.515,"Active","oh","Old Woman Creek",-5
+"owc","owcdrwq","Darrow Road",41.36498,82.50474,"Active","oh","Old Woman Creek",-5
+"owc","owcdrnut","Darrow Road",41.36498,82.50474,"active","oh","Old Woman Creek",-5
+"pdb","pdbjewq","Joe Leary Estuary",48.51892,122.47497,"Active","wa","Padilla Bay",-8
+"pdb","pdbgdnut","Gong Deep",48.5583,122.5725,"Active","wa","Padilla Bay",-8
+"pdb","pdbjenut","Joe Leary Estuary",48.51892,122.47497,"Active","wa","Padilla Bay",-8
+"pdb","pdbbpnut","Ploeg Channel",48.5565,122.5296,"Active","wa","Padilla Bay",-8
+"pdb","pdbbpwq","Ploeg Channel",48.5565,122.5296,"Active","wa","Padilla Bay",-8
+"pdb","pdbbynut","Bayview Channel",48.4963,122.5005,"Active","wa","Padilla Bay",-8
+"pdb","pdbbywq","Bayview Channel",48.4963,122.5005,"Active","wa","Padilla Bay",-8
+"pdb","pdbgsnut","Gong Surface",48.5583,122.5725,"Active","wa","Padilla Bay",-8
+"pdb","pdbgswq","Gong Surface",48.5583,122.5725,"Active","wa","Padilla Bay",-8
+"pdb","pdbjlnut","Joe Leary Slough",48.5181,122.473,"Inactive","wa","Padilla Bay",-8
+"pdb","pdbjlwq","Joe Leary Slough",48.5181,122.473,"Inactive","wa","Padilla Bay",-8
+"pdb","pdbnnwq","No Name Slough",48.4695,122.4674,"Inactive","wa","Padilla Bay",-8
+"pdb","pdbpfmet","Padilla Bay Farm",48.46385,122.4693,"Active","wa","Padilla Bay",-8
+"rkb","rkbbmwq","Big Marco Pass",25.979,81.7375,"Inactive","fl","Rookery Bay",-5
+"rkb","rkbbrwq","Blackwater River",25.9678,81.5908,"Inactive","fl","Rookery Bay",-5
+"rkb","rkbfbnut","Fakahatchee Bay",25.8922,81.477,"Active","fl","Rookery Bay",-5
+"rkb","rkbfbwq","Fakahatchee Bay",25.8922,81.477,"Active","fl","Rookery Bay",-5
+"rkb","rkbfunut","Faka Union Bay",25.9005,81.5159,"Active","fl","Rookery Bay",-5
+"rkb","rkbfuwq","Faka Union Bay",25.9005,81.5159,"Active","fl","Rookery Bay",-5
+"rkb","rkbhcmet","Henderson Creek",26.0249,81.7316,"Inactive","fl","Rookery Bay",-5
+"rkb","rkblhnut","Lower Henderson Creek",26.0257,81.7332,"Active","fl","Rookery Bay",-5
+"rkb","rkblhwq","Lower Henderson Creek",26.0257,81.7332,"Active","fl","Rookery Bay",-5
+"rkb","rkbmbnut","Middle Blackwater River",25.9343,81.5946,"Active","fl","Rookery Bay",-5
+"rkb","rkbmbwq","Middle Blackwater River",25.9343,81.5946,"Active","fl","Rookery Bay",-5
+"rkb","rkbuhmet","Upper Henderson Creek",26.05007,81.70172,"Active","fl","Rookery Bay",-5
+"rkb","rkbuhwq","Upper Henderson Creek",26.049,81.7012,"Inactive","fl","Rookery Bay",-5
+"rkb","rkbpbnut","Pumpkin Bay",25.9141,81.5404,"Active","FL","Rookery Bay",-5
+"sap","sapbcwq","Barn Creek",31.4392,81.2786,"Inactive","ga","Sapelo Island",-5
+"sap","sapcanut","Cabretta Creek",31.4437,81.2399,"Active","ga","Sapelo Island",-5
+"sap","sapcawq","Cabretta Creek",31.4437,81.2399,"Active","ga","Sapelo Island",-5
+"sap","sapdcnut","Dean Creek",31.3896,81.2789,"Active","ga","Sapelo Island",-5
+"sap","sapdcwq","Dean Creek",31.3896,81.2789,"Active","ga","Sapelo Island",-5
+"sap","sapfdnut","Flume Dock",31.4828,81.2675,"Inactive","ga","Sapelo Island",-5
+"sap","sapfdwq","Flume Dock",31.4828,81.2675,"Inactive","ga","Sapelo Island",-5
+"sap","saphdnut","Hunt Dock",31.4786,81.2731,"Active","ga","Sapelo Island",-5
+"sap","saphdwq","Hunt Dock",31.4786,81.2731,"Active","ga","Sapelo Island",-5
+"sap","sapldnut","Lower Duplin",31.4177,81.2961,"Active","ga","Sapelo Island",-5
+"sap","sapldwq","Lower Duplin",31.4177,81.2961,"Active","ga","Sapelo Island",-5
+"sap","sapmlmet","Marsh Landing",31.4178,81.29535,"Active","ga","Sapelo Island",-5
+"sap","sapmlnut","Marsh Landing",31.4177,81.2961,"Inactive","ga","Sapelo Island",-5
+"sap","sapmlwq","Marsh Landing",31.4177,81.2961,"Inactive","ga","Sapelo Island",-5
+"sfb","sfbfmnut","First Mallard",38.1949,122.0328,"Active","ca","San Francisco Bay",-8
+"sfb","sfbsmnut","Second Mallard",38.1841,122.0136,"Active","ca","San Francisco Bay",-8
+"sfb","sfbccnut","China Camp",38.0012,122.4604,"Active","CA","San Francisco Bay",-8
+"sfb","sfbgcnut","Gallinas Creek",38.0159,122.5085,"Active","CA","San Francisco Bay",-8
+"sfb","sfbfmwq","First Mallard",38.1949,122.0328,"Active","ca","San Francisco Bay",-8
+"sfb","sfbsmwq","Second Mallard",38.1841,122.0136,"Active","ca","San Francisco Bay",-8
+"sfb","sfbgcwq","Gallinas Creek",38.0159,122.5085,"Active","ca","San Francisco Bay",-8
+"sfb","sfbrrmet","Rush Ranch",38.2004,122.0265,"Active","ca","San Francisco Bay",-8
+"sfb","sfbccwq","China Camp",38.0012,122.4604,"Active","ca","San Francisco Bay",-8
+"sos","sosecwq","Elliot Creek",43.2965,124.31073,"Active","OR","South Slough",-8
+"sos","sosbhnut","Boathouse",43.3501,124.3286,"Active","or","South Slough",-8
+"sos","soschnut","Charleston Bridge",43.3377,124.32053,"Active","or","South Slough",-8
+"sos","soschwq","Charleston Bridge",43.3377,124.32053,"Active","or","South Slough",-8
+"sos","soscmmet","Charleston Met. Station",43.34505,124.32873,"Active","or","South Slough",-8
+"sos","soscsnut","Charleston Bridge Surface",43.3451,124.3287,"Inactive","or","South Slough",-8
+"sos","sossewq","Sengstacken Arm",43.28968,124.30262,"Inactive","or","South Slough",-8
+"sos","sosvanut","Valino Island",43.31722,124.32163,"Active","or","South Slough",-8
+"sos","sosvawq","Valino Island",43.31722,124.32163,"Active","or","South Slough",-8
+"sos","soswinut","Winchester Arm",43.28242,124.32032,"Active","or","South Slough",-8
+"sos","soswiwq","Winchester Arm",43.28242,124.32032,"Active","or","South Slough",-8
+"tjr","tjrbrwq","Boca Rio",32.5595,117.1288,"Active","ca","Tijuana River",-8
+"tjr","tjrhpnut","Helicopter Pad",32.55874,117.11926,"Inactive","ca","Tijuana River",-8
+"tjr","tjrmmnut","Model Marsh",32.5478,117.123,"Inactive","ca","Tijuana River",-8
+"tjr","tjrmmwq","Model Marsh",32.5478,117.123,"Inactive","ca","Tijuana River",-8
+"tjr","tjrosnut","Oneonta Slough",32.56829,117.13127,"Active","ca","Tijuana River",-8
+"tjr","tjroswq","Oneonta Slough",32.56829,117.13127,"Active","ca","Tijuana River",-8
+"tjr","tjrrcnut","River Channel",32.5578,117.1061,"Inactive","ca","Tijuana River",-8
+"tjr","tjrrcwq","River Channel",32.5578,117.1061,"Inactive","ca","Tijuana River",-8
+"tjr","tjrrmnut","River Mouth",32.5537,117.1262,"Inactive","ca","Tijuana River",-8
+"tjr","tjrtlmet","Tidal Linkage",32.5745,117.127,"Active","ca","Tijuana River",-8
+"tjr","tjrtlnut","Tidal Linkage",32.5744,117.1272,"Inactive","ca","Tijuana River",-8
+"tjr","tjrtlwq","Tidal Linkage",32.5744,117.1272,"Inactive","ca","Tijuana River",-8
+"tjr","tjrsbwq","South Bay",32.60014,117.11569,"Active","ca","Tijuana River",-8
+"tjr","tjrbrnut","Boca Rio",32.5595,117.1288,"Active","ca","Tijuana River",-8
+"tjr","tjrpewq","Pond Eleven",32.59612,117.11822,"Active","ca","Tijuana River",-8
+"tjr","tjrsbnut","South Bay",32.60014,117.11569,"Active","ca","Tijuana River",-8
+"tjr","tjrpenut","Pond Eleven",32.59612,117.11822,"Active","ca","Tijuana River",-8
+"wel","welsmnut","Skinner Mill",43.34471,70.54922,"Active","me","Wells",-5
+"wel","weldnwq","Drake Island Downstream",43.3289,70.5603,"Inactive","me","Wells",-5
+"wel","welhtnut","Head of Tide",43.29835,70.58709,"Active","me","Wells",-5
+"wel","welhtwq","Head of Tide",43.29835,70.58709,"Active","me","Wells",-5
+"wel","welinnut","Inlet",43.32009,70.56344,"Active","me","Wells",-5
+"wel","welinwq","Inlet",43.32009,70.56344,"Active","me","Wells",-5
+"wel","wellfmet","Laudholm Farm",43.33738,70.54944,"Active","me","Wells",-5
+"wel","wellmnut","Little River Mouth",43.34015,70.5406,"Active","me","Wells",-5
+"wel","wellmwq","Little River Mouth",43.34015,70.5406,"Active","me","Wells",-5
+"wel","welmlnut","Mile Road",43.305,70.5764,"Inactive","me","Wells",-5
+"wel","welmlwq","Mile Road",43.305,70.5764,"Inactive","me","Wells",-5
+"wel","welsmwq","Skinner Mill",43.34471,70.54922,"Active","me","Wells",-5
+"wel","welupwq","Drake Island Upstream",43.3306,70.5572,"Inactive","me","Wells",-5
+"wkb","wkbfrnut","Fish River",30.4162,87.8228,"Active","al","Weeks Bay",-6
+"wkb","wkbfrwq","Fish River",30.4162,87.8228,"Active","al","Weeks Bay",-6
+"wkb","wkbmbnut","Middle Bay",30.3961,87.8335,"Active","al","Weeks Bay",-6
+"wkb","wkbmbwq","Middle Bay",30.3961,87.8335,"Active","al","Weeks Bay",-6
+"wkb","wkbmrnut","Magnolia River",30.39,87.8177,"Active","al","Weeks Bay",-6
+"wkb","wkbmrwq","Magnolia River",30.39,87.8177,"Active","al","Weeks Bay",-6
+"wkb","wkbwbmet","Weeks Bay",30.4148,87.826,"Inactive","al","Weeks Bay",-6
+"wkb","wkbwbnut","Weeks Bay",30.3808,87.832,"Active","al","Weeks Bay",-6
+"wkb","wkbwbwq","Weeks Bay",30.3808,87.832,"Active","al","Weeks Bay",-6
+"wkb","wkbwsnut","Weather Station",30.41481,87.826,"Inactive","al","Weeks Bay",-6
+"wkb","wkbshmet","Safe Harbor Met Station",30.4212,87.8285,"Active","al","Weeks Bay",-6
+"wqb","wqbcbwq","Central Basin",41.5655,70.5211,"Inactive","ma","Waquoit Bay",-5
+"wqb","wqbchmet","Carriage House",41.5817,70.5251,"Active","ma","Waquoit Bay",-5
+"wqb","wqbcrnut","Childs River",41.5798,70.5309,"Active","ma","Waquoit Bay",-5
+"wqb","wqbcrwq","Childs River",41.5798,70.5309,"Active","ma","Waquoit Bay",-5
+"wqb","wqbctwq","Adjacent to Central Basin",41.5655,70.5211,"Inactive","ma","Waquoit Bay",-5
+"wqb","wqbmhnut","Menauhant",41.5526,70.5485,"Active","ma","Waquoit Bay",-5
+"wqb","wqbmhwq","Menauhant",41.5526,70.5485,"Active","ma","Waquoit Bay",-5
+"wqb","wqbmpnut","Metoxit Point",41.5689,70.5216,"Active","ma","Waquoit Bay",-5
+"wqb","wqbmpwq","Metoxit Point",41.5689,70.5216,"Active","ma","Waquoit Bay",-5
+"wqb","wqbnbwq","North Basin",41.5788,70.5237,"Inactive","ma","Waquoit Bay",-5
+"wqb","wqbnswq","North Basin Surface",41.5788,70.5237,"Inactive","ma","Waquoit Bay",-5
+"wqb","wqbslnut","Sage Lot",41.5542,70.5102,"Active","ma","Waquoit Bay",-5
+"wqb","wqbslwq","Sage Lot",41.5542,70.5102,"Active","ma","Waquoit Bay",-5
