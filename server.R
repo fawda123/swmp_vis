@@ -21,23 +21,27 @@ shinyServer(function(input, output) {
     codes <- codes %in% gsub('.RData','',dir('swmp'))
     sites <- unique(sites$Station[codes])
     
-    checkboxGroupInput("sites", h3("Choose sites"), sites)
+    selectInput(inputId = 'sites',
+                label = h3('Choose site'),
+                choices = sites)
     
     })
   
   # plots
   output$simplot <- renderPlot({
 
-#     # debugging
+    # debugging
 #     input <- list(
-#       daterange = c('2012-01-01', '2012-12-31'),
-#       reserve = 'Ashepoo Combahee Edisto Basin',
-#       sites = c('Big Bay', 'St. Pierre'),
+#       year = '2012',
+#       day = c('1', '365'),
+#       reserve = 'Sapelo Island',
+#       sites = c('Hunt Dock'),
 #       wqparms = c('Temp', 'Sal', 'DO_mgl', 'Depth')
 #       )
     
     # input controls
-    dates <- input$daterange
+    year <- input$year
+    day <- as.numeric(input$day)
     parms <- input$wqparms
     reserve <- input$reserve
     sites <- input$sites
@@ -54,7 +58,8 @@ shinyServer(function(input, output) {
     
     # subset data by daterange and input params
     # add column for site
-    dat <- dat[dat$Date >= dates[1] & dat$Date <= dates[2], ]
+    sel_vec <- dat$Year %in% year & dat$jday >= day[1] & dat$jday <= day[2]
+    dat <- dat[sel_vec, ]
     dat <- dat[, c('DateTimeStamp', parms)]
     dat$sites <- gsub('.[0-9]*$', '', row.names(dat))
     
@@ -64,11 +69,11 @@ shinyServer(function(input, output) {
     # plot
     p1 <- ggplot(to.plo, aes(x = DateTimeStamp, y = value)) +
       geom_line() + 
-      facet_wrap(sites ~ variable, scales = 'free_y', ncol = 1) +
+      facet_wrap(~ variable, scales = 'free_y', ncol = 1) +
       theme_bw()
     
     print(p1)
     
-    },height = 700, width = 700)
+    },height = 900, width = 700)
   
 })

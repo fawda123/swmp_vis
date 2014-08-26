@@ -12,7 +12,7 @@ shinyUI(pageWithSidebar(
     selectInput(inputId = 'reserve',
                 label = h3('Choose reserve'),
                 choices = c('Ashepoo Combahee Edisto Basin',
-                  'Apalachicola Bay', 'Chesapeake Bay',                'Delaware',                    
+                  'Apalachicola Bay', 'Chesapeake Bay', 'Delaware',                    
                   'Elkhorn Slough', 'Grand Bay',                    
                   'Great Bay', 'Guana Tolomato Mantanzas',     
                   'Hudson River', 'Jacques Cousteau',             
@@ -26,24 +26,36 @@ shinyUI(pageWithSidebar(
                   'Wells', 'Weeks Bay',                    
                   'Waquoit Bay'),
                 selected = 'Sapelo Island'),
-
+    
     uiOutput("reserveControls"),
     
-    dateRangeInput("daterange", h3("Date range"),
-                   start = "2012-01-01",
-                   end   = "2012-12-31", 
-                   min   = "2000-01-01", 
-                   max   = "2013-12-31"),
+    selectInput(inputId = 'year',
+                label = h3('Choose year'),
+                choices = seq(2001, 2012),
+                selected = '2012'),
+  
+    sliderInput("day", label = h3("Choose day range"),
+        min = 1, max = 365, value = c(1,365)),
     
     checkboxGroupInput(inputId = "wqparms", 
                        label = h3("Parameters"), 
                        choices = list(
                          "Temperature" = 'Temp', 
+                         "Conductivity" = 'SpCond',
                          "Salinity" = 'Sal', 
+                         "DO saturation" = 'DO_pct',
                          "DO" = 'DO_mgl',
-                         "Tidal Height" = 'Depth'
+                         "Tidal Height" = 'Depth',
+                         "pH" = 'pH', 
+                         "Turbidity" = 'Turb',
+#                          "Chl Fluorescence" = 'ChlFluor',
+                         "Air temperature" = 'ATemp', 
+                         "Relative humidity" = 'RH',
+                         "Pressure" = 'BP'
                          ),
-                       selected = c('Temp'))
+                       selected = c('Temp', 'SpCond', 'Sal', 'DO_pct', 
+                         'DO_mgl', 'Depth', 'pH', 'Turb', #'ChlFluor', 
+                         'ATemp', 'RH', 'BP'))
 
   ),
   

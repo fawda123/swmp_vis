@@ -21,6 +21,7 @@ library(maps)
 library(oce)
 library(gtable)
 library(ggvis)
+library(googleVis)
 
 # functions to use
 source('funcs.r')
